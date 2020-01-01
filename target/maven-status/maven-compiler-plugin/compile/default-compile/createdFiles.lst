@@ -1,0 +1,5 @@
+Pages\LoginPage.class
+Pages\DashBoardPage.class
+Pages\Application_Page.class
+Cucumber\Automation\App.class
+Resources\ExtentReporterNG.class
